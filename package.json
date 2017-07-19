@@ -1,0 +1,12 @@
+{
+  "name": "superagent-baseuri",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Nadav Ivgo",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^3.5.2",
+    "superagent-prefix": "0.0.2",
+    "superagent-use": "git://github.com/shesek/superagent-use.git#patch-1"
+  }
+}
